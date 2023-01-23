@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": null,
+  "pdflatex": null,
+  "outputFolder": "C:\\Users\\dmartodikromo\\Documents\\notes\\export",
+  "extraArguments": "",
+  "exportFrom": "html"
+}
