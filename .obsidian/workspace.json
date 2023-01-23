@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
+                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
+                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
+                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md"
+                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md"
               }
             }
           }
@@ -156,9 +156,9 @@
   },
   "active": "754aab4c584b574c",
   "lastOpenFiles": [
+    "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Adapter.md",
-    "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/DA/Datastructures and Algorithms.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/DA/Datastructures/Stacks.md",
     "Facade.md",
