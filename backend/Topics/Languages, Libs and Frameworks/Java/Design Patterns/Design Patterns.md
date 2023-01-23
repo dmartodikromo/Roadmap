@@ -1,0 +1,4 @@
+- Creational
+	- [[Creational/Singleton | Singleton]]
+- Structural
+	- [[Structural/Adapter | Adapter]]

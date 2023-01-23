@@ -1,2 +1,0 @@
-- [[roadmap/backend/Topics/Languages, Libs and Frameworks/Java/DA/Overview | Datastructures and Algorithms]]
-- [[roadmap/backend/Topics/Languages, Libs and Frameworks/Java/Multithreading/Overview | Multithreading]]

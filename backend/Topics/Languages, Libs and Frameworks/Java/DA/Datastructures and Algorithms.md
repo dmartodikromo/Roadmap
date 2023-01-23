@@ -1,0 +1,2 @@
+- Datastructures
+	- [[Stacks]]

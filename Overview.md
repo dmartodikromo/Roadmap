@@ -1,4 +1,4 @@
 # Topics
 
-- [[roadmap/backend/Topics | Backend]]
-- [[roadmap/frontend/Topics | Frontend]]
+- [[backend/Topics | Backend]]
+- [[frontend/Topics | Frontend]]

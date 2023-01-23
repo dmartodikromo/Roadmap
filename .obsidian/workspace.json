@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "0cb0953dd7a63d58",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7f1af20f1fb5ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "754aab4c584b574c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26e406a262cb4297",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3165a597a4eb247a",
+    "type": "split",
+    "children": [
+      {
+        "id": "177c0e26b1556723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed4d517b36c0965e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bbd6c5d9d0aab58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ad85308a0a658bb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "1a00e24b7bea6324",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1ce328e410612f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37405a0f917af344",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3faf5a088fcd847c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39480538a5f1550b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e26587fecc5f4bfd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "754aab4c584b574c",
+  "lastOpenFiles": [
+    "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Adapter.md",
+    "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
+    "backend/Topics/Languages, Libs and Frameworks/Java/DA/Datastructures and Algorithms.md",
+    "backend/Topics/Languages, Libs and Frameworks/Java/DA/Datastructures/Stacks.md",
+    "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
+    "Facade.md",
+    "backend/Topics/Internet/Internet the basics.md",
+    "backend/Topics/Internet/Internet.md",
+    "frontend/Topics.md",
+    "backend/Topics/Languages, Libs and Frameworks/Java/Java.md"
+  ]
+}
