@@ -53,6 +53,3 @@ Some typical use cases for the Singleton
     1.  There should be only one Singleton instance, whereas a _Flyweight_ class can have multiple instances with different intrinsic states.
     2.  The _Singleton_ object can be mutable. Flyweight objects are immutable.
 -   [Abstract Factories](https://refactoring.guru/design-patterns/abstract-factory), [Builders](https://refactoring.guru/design-patterns/builder) and [Prototypes](https://refactoring.guru/design-patterns/prototype) can all be implemented as [Singletons](https://refactoring.guru/design-patterns/singleton).
-
-
-<iframe src="https://java-design-patterns.com/" height="500" width="500"></iframe>
