@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
+                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +25,24 @@
             "state": {
               "type": "graph",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6fbc6b1361a5b8d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42aea9a7d8d213e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
+                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
+                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md"
+                "file": "Overview.md"
               }
             }
           }
@@ -154,8 +172,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "754aab4c584b574c",
+  "active": "42aea9a7d8d213e9",
   "lastOpenFiles": [
+    "backend/Topics/Languages, Libs and Frameworks/Java/Java.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Adapter.md",
@@ -164,7 +183,6 @@
     "Facade.md",
     "backend/Topics/Internet/Internet the basics.md",
     "backend/Topics/Internet/Internet.md",
-    "frontend/Topics.md",
-    "backend/Topics/Languages, Libs and Frameworks/Java/Java.md"
+    "frontend/Topics.md"
   ]
 }
