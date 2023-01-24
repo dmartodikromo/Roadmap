@@ -4,3 +4,10 @@
 
 routine checks: na elk einde sprint
 deadline: 15 Juni
+
+presentatie:
+- what is legacy code?
+- tools for solving legacy code
+- situaties met manieren van toepassingen
+- dependency breaking technieken
+- voorbeelden hoe wij het hebben gebruikt
