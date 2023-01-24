@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "1e2fc325d9220d0c",
+            "id": "efa5f988618cca3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monday 23 Januari.md",
+                "file": "backend/Topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 240.5
   },
   "right": {
     "id": "1a00e24b7bea6324",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monday 23 Januari.md",
+                "file": "backend/Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monday 23 Januari.md",
+                "file": "backend/Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monday 23 Januari.md"
+                "file": "backend/Topics.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e2fc325d9220d0c",
+  "active": "efa5f988618cca3b",
   "lastOpenFiles": [
+    "backend/Topics/Techiques/Techniques, Principles, etc..md",
+    "backend/Topics.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/Java.md",
+    "backend/Topics/Languages, Libs and Frameworks/Java/Principles/Principles.md",
+    "Monday 23 Januari.md",
     "Overview.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Adapter.md",
-    "backend/Topics/Languages, Libs and Frameworks/Java/DA/Datastructures and Algorithms.md",
-    "backend/Topics/Languages, Libs and Frameworks/Java/DA/Datastructures/Stacks.md",
-    "Facade.md",
-    "backend/Topics/Internet/Internet the basics.md",
-    "backend/Topics/Internet/Internet.md"
+    "backend/Topics/Languages, Libs and Frameworks/Java/DA/Datastructures and Algorithms.md"
   ]
 }
