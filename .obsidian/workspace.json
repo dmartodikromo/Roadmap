@@ -4,36 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "2b7f1af20f1fb5ab",
+        "id": "ce28ef13e79737b5",
         "type": "tabs",
         "children": [
           {
-            "id": "754aab4c584b574c",
+            "id": "b1fc7c8564c1d234",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Topics/Languages, Libs and Frameworks/Java/Java.md",
+                "file": "backend/Topics/Techniques/Techniques, Principles, etc..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e2fc325d9220d0c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "39cd90a5fec41373",
+            "id": "1a6e6d1890cac14b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "backend/Topics/Microservices/Microservices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9deec57618c07c0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Topics/Microservices/Microservices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "468d929067fc3b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Topics/Microservices/Reactive Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 247.5
   },
   "right": {
     "id": "1a00e24b7bea6324",
@@ -106,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "backend/Topics/Microservices/Microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "backend/Topics/Microservices/Microservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "backend/Topics/Microservices/Microservices.md"
               }
             }
           }
@@ -167,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39cd90a5fec41373",
+  "active": "9deec57618c07c0e",
   "lastOpenFiles": [
-    "Monday 23 Januari.md",
-    "conflict-files-obsidian-git.md",
-    "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Adapter.md",
+    "backend/Topics/Microservices/Domain Driven Design.md",
+    "backend/Topics/Microservices/Microservices.md",
+    "backend/Topics/Microservices/Reactive Systems.md",
+    "backend/Topics/Microservices/Reactive Principles.md",
+    "backend/Topics/Techniques/Techniques, Principles, etc..md",
     "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md",
-    "backend/Topics/Languages, Libs and Frameworks/Java/Java.md",
-    "backend/Topics/Languages, Libs and Frameworks/Java/Multithreading/Concurrency.md",
-    "backend/Topics/Languages, Libs and Frameworks/Java/Multithreading/Multithreading.md",
     "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
-    "frontend/Topics.md",
-    "Overview.md"
+    "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Adapter.md",
+    "backend/Topics/Languages, Libs and Frameworks/Java/DA/Datastructures/Stacks.md",
+    "backend/Topics.md"
   ]
 }
