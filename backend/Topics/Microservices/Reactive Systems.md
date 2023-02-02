@@ -68,17 +68,17 @@ location transparency
 ```mermaid
 flowchart TB
 subgraph A
-ActorA-->|Local|Router
-Router-->|Local|ActorB
+ActorA["Actor"]-->|Local|Router
+Router-->|Local|ActorB["Actor"]
 end
 subgraph B
-Router-->|Remote|ActorC
+Router-->|Remote|ActorC["Actor"]
 end
 subgraph C
-Router-->|Remote|ActorD
+Router-->|Remote|ActorD["Actor"]
 end
-Location_transparency.->ActorA & ActorD
-Resilient_and_elastic.->ActorC & ActorD
+LocationTransparency["Location transparency"].->ActorA & ActorD
+ResilientAndElastic["Resilient and elastic"].->ActorC & ActorD
 ```
 -   The message driven nature of actors supports location transparancy
 -   Actors communicate using the same technique, regardless of location
