@@ -125,29 +125,3 @@ BCB-->BCC-->BCD(("Bounded Context D"))
 - 
 In order to allow you to engage in the process of determining Bounded Contexts without going too deep, we have presented a simplified approach. If you are interested in exploring Bounded Contexts in more detail then we would strongly recommend you explore a standard practice such as Event Storming: [https://en.wikipedia.org/wiki/Event_storming](https://en.wikipedia.org/wiki/Event_storming)
 
-### Domain building blocks
-
-Domain activities
-Commands:
--   Command are a type of activity that occurs in the domain
--   Represents a request to perform an action
--   The action has not yet happened and can be rejected
--   Usually delivered to a specific destination
--   Causes a change in the state of the domain
--   Ex add item to an order
-
-Events:
--   Events are another activity in the domain
--   They represent an action that has happened in the past
--   Because the action is already completed they cannot be rejected
--   Often broadcasts to many destinations
--   Record a change to the state of a domain. Often the result of a command
--   Ex an item was added to an order
-
-Queries:
--   Queries are the final type of activities in the domain
--   They represent a request for information about the domain
--   Because they are a query the respond is always expected
--   Usually delivered to a specific destination
--   Queries should not alter the state of a domain
--   Ex get details of an order, check if bill has been paid
