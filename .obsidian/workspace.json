@@ -11,12 +11,8 @@
             "id": "9deec57618c07c0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backend/Topics/Microservices/Domain Building Blocks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Topics/Microservices/Domain Driven Design.md",
+                "file": "backend/Microservices/Domain Driven Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 369.5
   },
   "right": {
     "id": "1a00e24b7bea6324",
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/Topics/Microservices/Domain Building Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/Topics/Microservices/Domain Building Blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "backend/Topics/Microservices/Domain Building Blocks.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,17 +151,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9deec57618c07c0e",
+  "active": "ed4d517b36c0965e",
   "lastOpenFiles": [
-    "backend/Topics/Microservices/Microservices.md",
-    "backend/Topics/Microservices/Domain Driven Design.md",
-    "backend/Topics/Microservices/Domain Building Blocks.md",
-    "backend/Topics/Microservices/Reactive Systems.md",
-    "backend/Topics/Microservices/Reactive Principles.md",
-    "backend/Topics.md",
+    "backend/Multithreading/Multithreading.md",
+    "backend/Overview.md",
     "backend/Topics/Techniques/Techniques, Principles, etc..md",
-    "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Adapter.md",
-    "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Structural/Facade.md",
-    "backend/Topics/Languages, Libs and Frameworks/Java/Design Patterns/Creational/Singleton.md"
+    "backend/Design Patterns/Design Patterns.md",
+    "backend/Topics/Microservices/Microservices.md",
+    "backend/Languages/Java/Java.md",
+    "backend/Languages, Libs and Frameworks/Languages, Libs and Frameworks.md",
+    "backend/Internet/Internet the basics.md",
+    "backend/Internet/Internet.md",
+    "backend/Microservices/Reactive Systems.md"
   ]
 }

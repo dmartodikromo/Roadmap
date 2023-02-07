@@ -1,4 +1,0 @@
-- [[Reactive Systems]]
-- [[Reactive Principles]]
-- [[Domain Driven Design]]
-- [[Domain Building Blocks]]

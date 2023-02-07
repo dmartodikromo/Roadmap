@@ -62,10 +62,24 @@ Events are often the result of a Command. Where a Command requests a change to t
 Value objects
 ```mermaid
 classDiagram
-class Address
-Address: number = 1234
-Address: street = Play street
-Address: city = Lagomville
-Address: state = Akkansas
-Address: country = Lightbendia
+class Address1
+Address1: number = 1234 
+Address1: street = Play street
+Address1: city = Lagomville
+Address1: state = Akkansas
+Address1: country = Lightbendia
+
+class Address2
+Address2: number = 1234 
+Address2: street = Play street
+Address2: city = Lagomville
+Address2: state = Akkansas
+Address2: country = Lightbendia
+
+class Address3
+Address3: number = 1234 
+Address3: street = Some other street
+Address3: city = Lagomville
+Address3: state = Akkansas
+Address3: country = Lightbendia
 ```
