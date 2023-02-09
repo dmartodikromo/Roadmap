@@ -11,8 +11,12 @@
             "id": "9deec57618c07c0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "backend/Microservices/Domain Building Blocks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "backend/Microservices/Domain Building Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "backend/Microservices/Domain Building Blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "backend/Microservices/Domain Building Blocks.md"
+              }
             }
           }
         ],
@@ -151,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed4d517b36c0965e",
+  "active": "9deec57618c07c0e",
   "lastOpenFiles": [
-    "backend/Multithreading/Multithreading.md",
+    "backend/Microservices/Domain Driven Design.md",
+    "backend/Microservices/Domain Building Blocks.md",
+    "backend/Microservices/Reactive Systems.md",
     "backend/Overview.md",
+    "backend/Multithreading/Concurrency.md",
+    "backend/Multithreading/Multithreading.md",
+    "frontend/Topics.md",
     "backend/Topics/Techniques/Techniques, Principles, etc..md",
     "backend/Design Patterns/Design Patterns.md",
-    "backend/Topics/Microservices/Microservices.md",
-    "backend/Languages/Java/Java.md",
-    "backend/Languages, Libs and Frameworks/Languages, Libs and Frameworks.md",
-    "backend/Internet/Internet the basics.md",
-    "backend/Internet/Internet.md",
-    "backend/Microservices/Reactive Systems.md"
+    "backend/Topics/Microservices/Microservices.md"
   ]
 }

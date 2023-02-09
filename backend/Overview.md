@@ -16,5 +16,4 @@ link to the roadmap: [Roadmap](https://roadmap.sh/backend)
 	- [[Domain Driven Design]]
 	- [[Domain Building Blocks]]
 - Multithreading
-	- [[Concurrency]]
 	- [[Multithreading]]
