@@ -60,30 +60,7 @@ Events are often the result of a Command. Where a Command requests a change to t
 ### Domain Objects
 
 Value objects
-```mermaid
-classDiagram
-class Address1
-Address1: number = 1234 
-Address1: street = Play street
-Address1: city = Lagomville
-Address1: state = Akkansas
-Address1: country = Lightbendia
-
-class Address2
-Address2: number = 1234 
-Address2: street = Play street
-Address2: city = Lagomville
-Address2: state = Akkansas
-Address2: country = Lightbendia
-
-class Address3
-Address3: number = 1234 
-Address3: street = Some other street
-Address3: city = Lagomville
-Address3: state = Akkansas
-Address3: country = Lightbendia
-```
-Address1 == Address2 != Adress3
+![[Pasted image 20230209214134.png]]
 
 -   A value object is defined by its attributes
 -   Two value objects are equivalent if their values are the same
@@ -92,32 +69,9 @@ Address1 == Address2 != Adress3
 -   Messages in reactive systems are implemented as value objects
 
 Entities
-```mermaid
-classDiagram
-class Address1
-Address1: NAME = John Smith
-Address1: number = 1234 
-Address1: street = Play street
-Address1: city = Lagomville
-Address1: state = Akkansas
-Address1: country = Lightbendia
 
-class Address2
-Address2: NAME = John Smith
-Address2: number = 1234 
-Address2: street = Play street
-Address2: city = Lagomville
-Address2: state = Akkansas
-Address2: country = Lightbendia
+![[Pasted image 20230209214223.png]]
 
-class Address3
-Address3: NAME = Jane Smith
-Address3: number = 1234 
-Address3: street = Some other street
-Address3: city = Lagomville
-Address3: state = Akkansas
-Address3: country = Lightbendia
-```
 Address1 == Address2 != Adress3
 NAME is the identity
 

@@ -4,34 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "ce28ef13e79737b5",
+        "id": "cdf864db653feea4",
         "type": "tabs",
         "children": [
           {
-            "id": "9deec57618c07c0e",
+            "id": "2d478d8c791d0807",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9e7735263ecc819",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e49c46a1bb384466",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4150466e58f20d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Microservices/Domain Building Blocks.md",
+                "file": "backend/Architecture/Service Oriented.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3c57954b1d962c95",
+            "id": "957d1e4c37a13c18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Microservices/Domain Driven Design.md",
+                "file": "backend/Architecture/Microservice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae53a6ae33591f44",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pictures/Pasted image 20230209215448.png"
+              }
+            }
+          },
+          {
+            "id": "a057779348cce490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Datastructures/Stacks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/Microservices/Domain Building Blocks.md",
+                "file": "backend/Datastructures/Stacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/Microservices/Domain Building Blocks.md",
+                "file": "backend/Datastructures/Stacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/Microservices/Domain Building Blocks.md"
+                "file": "backend/Datastructures/Stacks.md"
               }
             }
           }
@@ -159,17 +206,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9deec57618c07c0e",
+  "active": "a057779348cce490",
   "lastOpenFiles": [
-    "backend/Microservices/Domain Driven Design.md",
-    "backend/Microservices/Domain Building Blocks.md",
-    "backend/Microservices/Reactive Systems.md",
-    "backend/Overview.md",
-    "backend/Multithreading/Concurrency.md",
+    "backend/Architecture/Service Oriented.md",
+    "backend/Architecture/Monolithic.md",
+    "backend/Architecture/Microservice.md",
+    "backend/Architecture/Hexagonal.md",
     "backend/Multithreading/Multithreading.md",
-    "frontend/Topics.md",
-    "backend/Topics/Techniques/Techniques, Principles, etc..md",
-    "backend/Design Patterns/Design Patterns.md",
-    "backend/Topics/Microservices/Microservices.md"
+    "pictures/Pasted image 20230209221155.png",
+    "pictures/Pasted image 20230209215448.png",
+    "monolith.md",
+    "backend/Architecture/Architectures.md",
+    "backend/Overview.md"
   ]
 }
