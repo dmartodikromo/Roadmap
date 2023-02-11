@@ -4,81 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cdf864db653feea4",
+        "id": "7c87d2e35902e6ed",
         "type": "tabs",
         "children": [
           {
-            "id": "2d478d8c791d0807",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e9e7735263ecc819",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e49c46a1bb384466",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4150466e58f20d88",
+            "id": "451b7cd75037e1c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Architecture/Service Oriented.md",
+                "file": "tools/Docker/Docker introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "957d1e4c37a13c18",
+            "id": "5978a23b38d1e78c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Architecture/Microservice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae53a6ae33591f44",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pictures/Pasted image 20230209215448.png"
-              }
-            }
-          },
-          {
-            "id": "a057779348cce490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backend/Datastructures/Stacks.md",
+                "file": "tools/Docker/Docker swarm introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/Datastructures/Stacks.md",
+                "file": "tools/Docker/Docker swarm introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/Datastructures/Stacks.md",
+                "file": "tools/Docker/Docker swarm introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/Datastructures/Stacks.md"
+                "file": "tools/Docker/Docker swarm introduction.md"
               }
             }
           }
@@ -206,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a057779348cce490",
+  "active": "5978a23b38d1e78c",
   "lastOpenFiles": [
-    "backend/Architecture/Service Oriented.md",
-    "backend/Architecture/Monolithic.md",
-    "backend/Architecture/Microservice.md",
-    "backend/Architecture/Hexagonal.md",
-    "backend/Multithreading/Multithreading.md",
-    "pictures/Pasted image 20230209221155.png",
+    "tools/Docker/Docker introduction.md",
+    "backend/Design Patterns/Structural/Adapter.md",
+    "backend/Design Patterns/Creational/Singleton.md",
+    "backend/Datastructures/Stacks.md",
     "pictures/Pasted image 20230209215448.png",
-    "monolith.md",
-    "backend/Architecture/Architectures.md",
-    "backend/Overview.md"
+    "backend/Architecture/Microservice.md",
+    "backend/Architecture/Service Oriented.md",
+    "tools/Untitled.md",
+    "backend/Architecture/Monolithic.md",
+    "backend/Architecture/Hexagonal.md"
   ]
 }
