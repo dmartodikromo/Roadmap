@@ -106,6 +106,44 @@ Creating a dcoker image with docker build
 	-   List of instructions for how to construct the container
 -   Run  `docker build -f Dockerfile
 
+Common docker cli commands:
+
+-   build
+	-   Creates container images
+	-   Requires Dockerfile
+	-   Tags, or names, images
+-   tag
+	-   Names images
+	-   Doesn’t overwrite existing images
+	-   creates new tag that points to that image
+-   images
+	-   Lists all images, their repos and tags and their size
+-   run
+	-   Run containers
+	-   Suited for testing an image that has been built
+-   push and pull
+	-   Stores images and retrieces images from a remote location
+
+Dockerfile instruction
+
+Any valid dockerfile must first begin with a FROM instruction, which initializes a new build stage and specifies the base image that subsequent instructions will build upon
+
+-   FROM
+	-   Define base image
+	-   Base image often from a public repo like an OS or language
+-   RUN
+	-   Executes arbitrary commands
+-   ENV
+	-   Set environment variables
+-   ADD and COPY
+	-   Copy files and directories
+	-   COPY -> can only copy local files or directories
+	-   ADD -> can also add files from local repos
+-   CMD
+	-   Define default command for container executions
+	-   Only one CMD instruction in a Dockerfile
+	-   Main purpose is to provide default for executing your container. Defined the executable that should run in your container
+
 example
 ```Dockerfile
 FROM ubuntu
