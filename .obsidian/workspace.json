@@ -11,11 +11,64 @@
             "id": "aa9a44ce0ccc93de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "backend/Design Patterns/Creational/Singleton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e87ffc4d0d747b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Design Patterns/Creational/Singleton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1eefaf854b0a0570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Design Patterns/Creational/Singleton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dc2b75eb2005134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Design Patterns/Creational/Singleton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "930d380886baf949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Design Patterns/Structural/Adapter.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "backend/Design Patterns/Structural/Adapter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "backend/Design Patterns/Structural/Adapter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "backend/Design Patterns/Structural/Adapter.md"
+              }
             }
           }
         ],
@@ -140,17 +197,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa9a44ce0ccc93de",
+  "active": "930d380886baf949",
   "lastOpenFiles": [
-    "backend/Principles/Linus's Law.md",
-    "backend/Principles/Brooks's Law.md",
-    "backend/Principles/Murphy's Law.md",
-    "backend/Principles/Command Query Separation.md",
-    "backend/Principles/Boy-Scout Rule.md",
-    "backend/Principles/Interface Segregation Principle.md",
+    "backend/Design Patterns/Creational/Singleton.md",
+    "backend/Design Patterns/Creational/Abstract factory.md",
+    "backend/Design Patterns/Structural/Flyweight.md",
+    "backend/Design Patterns/Creational/Prototype.md",
+    "backend/Design Patterns/Creational/Builder.md",
     "backend/Principles/Single Responsibility Principle.md",
-    "backend/Principles/Encapsulate What Changes.md",
-    "backend/Principles/Hide Implementation Details.md",
-    "backend/Principles/Curly's Law.md"
+    "backend/Principles/Curly's Law.md",
+    "backend/Design Patterns/Structural/Facade.md",
+    "backend/Design Patterns/Structural/Adapter.md",
+    "backend/Architecture/Service Oriented.md"
   ]
 }
