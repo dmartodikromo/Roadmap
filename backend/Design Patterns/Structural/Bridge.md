@@ -1,0 +1,1 @@
+> Decouples an abstraction so two classes can vary independently.

@@ -1,5 +1,5 @@
 
-Also known as wrapper. Convert the interface of a class into another interface the client expects. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
+> Also known as wrapper. Convert the interface of a class into another interface the client expects. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
 
 Consider a captain that can only use rowing boats and cannot sail at all.
 

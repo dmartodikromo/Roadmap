@@ -1,0 +1,1 @@
+> Takes a group of objects into a single object.

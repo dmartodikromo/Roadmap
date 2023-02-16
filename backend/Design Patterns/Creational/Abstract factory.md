@@ -1,0 +1,1 @@
+> Allows the creation of objects without specifying their concrete type.

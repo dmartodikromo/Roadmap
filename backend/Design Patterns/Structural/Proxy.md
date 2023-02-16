@@ -1,0 +1,1 @@
+> Provides a placeholder interface to an underlying object to control access, reduce cost, or reduce complexity.

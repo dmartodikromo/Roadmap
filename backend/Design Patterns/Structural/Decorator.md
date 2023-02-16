@@ -1,0 +1,1 @@
+> Allows for an object’s behavior to be extended dynamically at run time.
