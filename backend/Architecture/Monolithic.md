@@ -1,3 +1,12 @@
+
+A monolith, another architecture type associated with legacy systems, is a single application stack that contains all functionality within that 1 application. This is tightly coupled, both in the interaction between the services and how they are developed and delivered. 
+
+Updating or scaling a single aspect of a monolithic application has implications for the entire application and its underlying infrastructure. 
+
+A single change to the application code requires the whole application to be re-released. Because of this, updates and new releases typically can only occur once or twice per year, and may only include general maintenance instead of new features. 
+
+In contrast, more modern architectures try to break out services by functionality or business capabilities to provide more agility.
+
 Characteristics of a monolith
 
 -   Deployed as a single unit

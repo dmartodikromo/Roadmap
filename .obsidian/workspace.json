@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b52d2d1b2573dcac",
+        "id": "a419a7390a3c6f60",
         "type": "tabs",
         "children": [
           {
-            "id": "aa9a44ce0ccc93de",
+            "id": "42b84de16bf6ed4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Design Patterns/Creational/Singleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e87ffc4d0d747b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backend/Design Patterns/Creational/Singleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1eefaf854b0a0570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backend/Design Patterns/Creational/Singleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dc2b75eb2005134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backend/Design Patterns/Creational/Singleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "930d380886baf949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backend/Design Patterns/Structural/Adapter.md",
+                "file": "backend/Architecture/Event-driven architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/Design Patterns/Structural/Adapter.md",
+                "file": "backend/Architecture/Event-driven architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/Design Patterns/Structural/Adapter.md",
+                "file": "backend/Architecture/Event-driven architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/Design Patterns/Structural/Adapter.md"
+                "file": "backend/Architecture/Event-driven architecture.md"
               }
             }
           }
@@ -197,17 +148,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "930d380886baf949",
+  "active": "42b84de16bf6ed4f",
   "lastOpenFiles": [
-    "backend/Design Patterns/Creational/Singleton.md",
-    "backend/Design Patterns/Creational/Abstract factory.md",
-    "backend/Design Patterns/Structural/Flyweight.md",
-    "backend/Design Patterns/Creational/Prototype.md",
-    "backend/Design Patterns/Creational/Builder.md",
-    "backend/Principles/Single Responsibility Principle.md",
-    "backend/Principles/Curly's Law.md",
-    "backend/Design Patterns/Structural/Facade.md",
-    "backend/Design Patterns/Structural/Adapter.md",
-    "backend/Architecture/Service Oriented.md"
+    "backend/Architecture/Monolithic.md",
+    "backend/Architecture/Service Oriented.md",
+    "backend/Architecture/Event-driven architecture.md",
+    "backend/Architecture/Microservice.md",
+    "backend/Architecture/Layerd or N-tier architecture.md",
+    "backend/Principles/Code For The Maintainer.md",
+    "backend/Principles/Command Query Separation.md",
+    "backend/Principles/Inversion of Control.md",
+    "backend/Principles/Interface Segregation Principle.md",
+    "backend/Principles/Keep things DRY.md"
   ]
 }
