@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Docker/Docker swarm introduction.md",
+                "file": "tools/Docker/Docker introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Docker/Docker swarm introduction.md",
+                "file": "tools/Docker/Docker introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Docker/Docker swarm introduction.md",
+                "file": "tools/Docker/Docker introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Docker/Docker swarm introduction.md"
+                "file": "tools/Docker/Docker introduction.md"
               }
             }
           }
@@ -160,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5978a23b38d1e78c",
+  "active": "ed4d517b36c0965e",
   "lastOpenFiles": [
+    "tools/Docker/Docker swarm introduction.md",
     "tools/Docker/Docker introduction.md",
+    "backend/Datastructures/Stacks.md",
     "backend/Design Patterns/Structural/Adapter.md",
     "backend/Design Patterns/Creational/Singleton.md",
-    "backend/Datastructures/Stacks.md",
     "pictures/Pasted image 20230209215448.png",
     "backend/Architecture/Microservice.md",
     "backend/Architecture/Service Oriented.md",
     "tools/Untitled.md",
-    "backend/Architecture/Monolithic.md",
-    "backend/Architecture/Hexagonal.md"
+    "backend/Architecture/Monolithic.md"
   ]
 }
