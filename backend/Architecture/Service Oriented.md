@@ -12,5 +12,5 @@ Service oriented architecture(SOA)
 -   We can introduce additional isolation into our monoliths using Service oriented architecture
 -   Services do not share a database
 -   All access must go through the api exposed by the service
--   Services may live in the same process ([[Monolithic | monolith]]) or may be seperated([[Microservice | microservice]])
+-   Services may live in the same process ([[Monolithic |monolith]]) or may be seperated([[Microservice |microservice]])
 -   This creates additional isolation

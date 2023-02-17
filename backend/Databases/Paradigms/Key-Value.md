@@ -13,6 +13,30 @@ People describing key-value database design sometimes explain that this new type
 - Redis
 - Memcached
 
+### Use cases
+
+#### Performance-sensitive applications
+
+One common design pattern that works with many apps is to use a key-value database like Redis to improve the read performance of an application. A relational database can act as the source of truth where data is written and that data is then pushed out to a number of geographically distributed key-value database nodes. This results in reduced latency because the data is closer to users and also makes an app more scalable and reliable.
+
+Key-value databases can also be used for storing pre-computed data that is crucial to user experience. An example of this is Twitter generating users’ news feeds ahead of time and caching them so users get a faster homepage load.
+
+#### Storage engine for higher-level databases
+
+Many databases use key-value DBs under the hood as a storage engine due to their raw performance and to save development time by not reinventing the wheel. RocksDB is an open-source embedded key-value database created by Facebook that has been used by or is supported by MySQL, Cassandra, MariaDB, MongoDB, YugabyteDB, and InfluxDB.
+
+#### Internet of Things
+
+Many businesses in many different industries are using sensors and related technology to collect more data about operations. It might be related to manufacturing and product development, or the use of a service model to retrieve data for customers. Companies might be collecting data about supplier and vending contracts, and how those operations work.
+
+A corresponding benefit applies to new communications models like the Internet of Things, where a greater volume of devices are used to move data through a business network. In the [IoT](https://www.influxdata.com/customers/iot-data-platform/), data is “always in transit” – filtered through a greater number of hardware hops, with all of the logistical issues that may entail.
+
+In response, modern engineering has conceived of ways to do [processing closer to the origin of individual data points](https://www.influxdata.com/glossary/edge-computing/). Experts often promote the idea of computing “[close to the edge](https://www.influxdata.com/blog/influxdb-iot-edge-historian/)” with a noSQL database – in the environment that stores data where the devices are collecting information. Key-value databases complement this kind of data operation. Because of their flexibility, they allow for better and more capable handling of this volatile activity as well.
+
+The use of a key-value database in general and an Influx time series model, in particular, can merge with other strategies to build business efficiencies. For example, the better use of time-stamped data can dovetail with data visualization that provides business insights.
+
+Another way to achieve more with these types of noSQL database setups is to tie them to dynamic resources in vendor service models. Serverless function is one prime example of how this works. By utilizing [AWS Lambda](https://www.influxdata.com/blog/build-serverless-lambda-function-influxdb/) or some [serverless function](https://www.influxdata.com/blog/build-serverless-lambda-function-influxdb/) service, the business user can complement the robust database systems around the time-stamped data in a way that doesn’t waste computing power.
+
 ### Workings
 
 Key-value databases have sets of key-value pairs, where the key is the identifier and the value is the data in question. A key-value pair is very similar to the various different implementations of hash tables in many programming languages, such as dictionaries with Python and objects in Javascript. The major difference with a key-value database is that your data is persisted and managed via the database you are using.
@@ -103,27 +127,3 @@ Updating values can also be inefficient because the entire chunk of data has to 
 #### Potentially less efficient storage and query optimization
 
 With defined schema types, a relational database is able to optimize storage by using compression in some cases and can also optimize common queries like getting aggregates of column values.
-
-### Use cases
-
-#### Performance-sensitive applications
-
-One common design pattern that works with many apps is to use a key-value database like Redis to improve the read performance of an application. A relational database can act as the source of truth where data is written and that data is then pushed out to a number of geographically distributed key-value database nodes. This results in reduced latency because the data is closer to users and also makes an app more scalable and reliable.
-
-Key-value databases can also be used for storing pre-computed data that is crucial to user experience. An example of this is Twitter generating users’ news feeds ahead of time and caching them so users get a faster homepage load.
-
-#### Storage engine for higher-level databases
-
-Many databases use key-value DBs under the hood as a storage engine due to their raw performance and to save development time by not reinventing the wheel. RocksDB is an open-source embedded key-value database created by Facebook that has been used by or is supported by MySQL, Cassandra, MariaDB, MongoDB, YugabyteDB, and InfluxDB.
-
-#### Internet of Things
-
-Many businesses in many different industries are using sensors and related technology to collect more data about operations. It might be related to manufacturing and product development, or the use of a service model to retrieve data for customers. Companies might be collecting data about supplier and vending contracts, and how those operations work.
-
-A corresponding benefit applies to new communications models like the Internet of Things, where a greater volume of devices are used to move data through a business network. In the [IoT](https://www.influxdata.com/customers/iot-data-platform/), data is “always in transit” – filtered through a greater number of hardware hops, with all of the logistical issues that may entail.
-
-In response, modern engineering has conceived of ways to do [processing closer to the origin of individual data points](https://www.influxdata.com/glossary/edge-computing/). Experts often promote the idea of computing “[close to the edge](https://www.influxdata.com/blog/influxdb-iot-edge-historian/)” with a noSQL database – in the environment that stores data where the devices are collecting information. Key-value databases complement this kind of data operation. Because of their flexibility, they allow for better and more capable handling of this volatile activity as well.
-
-The use of a key-value database in general and an Influx time series model, in particular, can merge with other strategies to build business efficiencies. For example, the better use of time-stamped data can dovetail with data visualization that provides business insights.
-
-Another way to achieve more with these types of noSQL database setups is to tie them to dynamic resources in vendor service models. Serverless function is one prime example of how this works. By utilizing [AWS Lambda](https://www.influxdata.com/blog/build-serverless-lambda-function-influxdb/) or some [serverless function](https://www.influxdata.com/blog/build-serverless-lambda-function-influxdb/) service, the business user can complement the robust database systems around the time-stamped data in a way that doesn’t waste computing power.
