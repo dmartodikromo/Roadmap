@@ -10,8 +10,8 @@ People describing key-value database design sometimes explain that this new type
 
 ### Examples
 
-- Redis
-- Memcached
+- [Redis](https://redis.io/)
+- [Memcached](https://memcached.org/)
 
 ### Use cases
 

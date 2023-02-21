@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "5b1379053e7ef8e9",
+        "id": "c8538ce9de222fba",
         "type": "tabs",
         "children": [
           {
-            "id": "77dc8093c7be3a24",
+            "id": "98af679fb12e1c4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "backend/Databases/Paradigms/Wide Column.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a7fc8fdad35965d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/GIt/Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dca85fe1006db6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Databases/Paradigms/Graph.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#intro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tools/GIt/Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tools/GIt/Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +150,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tools/GIt/Cheatsheet.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,6 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77dc8093c7be3a24",
-  "lastOpenFiles": []
+  "active": "f8a33d10e3806e91",
+  "lastOpenFiles": [
+    "backend/Databases/Paradigms/Wide Column.md",
+    "backend/Databases/Paradigms/Search Engine.md",
+    "backend/Databases/Paradigms/Relational.md",
+    "backend/Databases/Paradigms/Multi Model.md",
+    "backend/Databases/Paradigms/Key-Value.md",
+    "backend/Databases/Paradigms/Graph.md",
+    "backend/Databases/Paradigms/Document Oriented.md",
+    "backend/Databases/Keywords/CAP Theorem.md",
+    "backend/Databases/Keywords/ACID.md",
+    "backend/Cloud/Cloud introduction.md"
+  ]
 }
